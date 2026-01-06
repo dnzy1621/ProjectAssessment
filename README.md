@@ -14,10 +14,5 @@ budgets, genres, and audience demographics.
 - **Marketing:** Use demographic-specific targeting (e.g., targeting female audiences for Mystery/Drama releases) to maximize ratings.
 
 ## 4. Video Presentation
-[INSERT YOUR YOUTUBE LINK HERE]
 
-## 5. Team Members & Roles
-- **Member 1:** Data Cleaning & ROI Calculation
-- **Member 2:** Data Visualization & GitHub Management
-- **Member 3:** Demographic Analysis & Report Writing
-- **Member 4:** Video Presentation & Editing
+
